@@ -1,6 +1,4 @@
-{
-  "enabledPluginIds": [
-    "obsidian-marp",
-    "dataview"
-  ]
-}
+[
+  "marp",
+  "dataview"
+]
